@@ -21,13 +21,13 @@ const Hero = () => {
         <p className="mb-8 p-2 text-xl">{HERO.description}</p>
       </motion.div>
 
-      <motion.div 
+      {/* <motion.div 
       initial={{opacity:0,scale:0.8}}
       animate={{opacity:1,scale:1}}
       transition={{duration:1}}
 
       className="w-full md:w-1/2 lg:p-8">
-        {/* <div className="flex justify-center">
+        <div className="flex justify-center">
           <motion.img
             initial={{opacity:0}}
             animate={{opacity:1}}
@@ -38,8 +38,8 @@ const Hero = () => {
             alt="Carl Frank"
             className="rounded-3xl"
           />
-        </div> */}
-      </motion.div>
+        </div>
+      </motion.div> */}
     </section>
   );
 };
