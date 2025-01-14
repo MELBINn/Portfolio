@@ -60,9 +60,9 @@ const Navbar = () => {
         <div className="rounded-lg backdrop-blur-md lg:hidden">
           <div className="flex items-center justify-between">
             <div>
-              <a href="#">
+              {/* <a href="#">
                 <img src={logo} alt="logo" width={90} className="m-2"></img>
-              </a>
+              </a> */}
             </div>
             <div className="flex items-center">
               <button

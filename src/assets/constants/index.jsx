@@ -145,13 +145,14 @@ export const EXPERIENCES = [
     company: "Altos technologies",
     duration: "oct 2024 - Present",
     description:
-      "As the web Developer, I designed and implemented responsive and user-friendly front-end interface with React.Architected and executed the implementation of RESTful APIs.Used version control systems like Git to manage code repositories."},
+      "As the web Developer, I am currently working on developing the front-end of an e-commerce application using React and Tailwind CSS. I created a modern, responsive, and user-friendly interface to provide a seamless shopping experience.Leveraging Tailwind CSS,I ensured efficient styling and a consistent design across the application."},
   {
     title: "junior full-stack developer",
     company: "Soften technologies",
     duration: "june 2023 - November 2023",
     description:
-      "At soften,I focused on developing and maintained responsive, user-friendly front-end interfaces using technologies like React, HTML, CSS, and JavaScript.Built and integrated APIs using Node.js and Express to streamline data flow",
+      // "At soften,I focused on developing and maintained responsive, user-friendly front-end interfaces using technologies like React, HTML, CSS, and JavaScript.Built and integrated APIs using Node.js and Express to streamline data flow.",
+      "At Soften, I focused on developing and maintaining responsive, user-friendly front-end interfaces using technologies like React, HTML, CSS, and JavaScript. Additionally, I built and integrated APIs using Node.js and Express to streamline data flow. During my time there, I worked on two significant projects. The first was an e-commerce application, where I designed and developed a responsive and intuitive user interface to ensure a seamless browsing and shopping experience. I also integrated APIs to handle product listings, user authentication, and cart functionalities. The second project was a blog application, where I created an interactive platform for users to create, edit, and manage blog posts. This involved integrating APIs to manage user accounts, enable dynamic content rendering, and support user engagement through comments and feedback features.",
   },
   // {
   //   title: "Junior Web Developer",
